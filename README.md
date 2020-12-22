@@ -5,4 +5,4 @@ Our website can be find here: https://eymd2018.github.io/FakeNews/
 
 We would be grateful if you could share or embed it
 
-Enjoy debunking Fake-news!
+Enjoy debunking fake news!
